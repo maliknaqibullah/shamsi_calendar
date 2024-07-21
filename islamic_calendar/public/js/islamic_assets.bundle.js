@@ -1,0 +1,11 @@
+import '../hijri_libary/jquery.plugin.js';
+import '../hijri_libary/jquery.calendars.js';
+import '../hijri_libary/jquery.calendars.plus.js';
+import '../hijri_libary/jquery.calendars.picker.js';
+import '../hijri_libary/jquery.calendars.picker-ar.js';
+// import '../hijri_libary/jquery.calendars.islamic.js';
+// import '../hijri_libary/jquery.calendars.islamic-ar.js';
+// import '../hijri_libary/jquery.calendars.islamic-fa.js';
+import '../hijri_libary/jquery.calendars.persian.js';
+import '../hijri_libary/jquery.calendars.persian-fa.js';
+import './custom_control_date';
